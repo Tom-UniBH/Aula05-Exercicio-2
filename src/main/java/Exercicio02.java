@@ -1,3 +1,6 @@
+// Nome: Tom Alexander
+// Matrícula: 1261933671
+
 void main() {
   try (Scanner input = new Scanner(System.in)) {
     System.out.print("Lado A: ");
